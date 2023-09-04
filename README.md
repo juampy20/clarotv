@@ -417,3 +417,27 @@ PAKAPAKA
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/pakapaka.webp" group-title="INFANTILES", 133 PAKA PAKA
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(PAKAPAKA)/index.m3u8
 
+
+
+
+-------------------------------------------- DEPORTES------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+ESPN
+
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="SPORTS ESPN",141 ESPN 
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ESPN)/index.m3u8
+
+ESPN2
+
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="SPORTS ESPN",142 ESPN 2 
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ESPN2)/index.m3u8
+
+ESPN 3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORTS ESPN",143 ESPN 3 
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ESPN3)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="SPORTS ESPN",144 ESPN EXTRA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ESPN_EXTRA)/index.m3u8

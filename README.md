@@ -104,3 +104,31 @@ RAI
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rai-italia-logo-CD2B7BAB1A-seeklogo.com.png" group-title="NOTICIAS",28 RAI
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(RAI)/index.m3u8
+
+
+--------------------------------------- MUSICA ---------------------------------------
+--------------------------------------------------------------------------------------
+
+QUIERO
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/quiero.webp" group-title="MUSICA", 35 QUIERO MUSICA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(QUIERO_MUSICA)/index.m3u8
+
+
+MTV
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtv.webp" group-title="MUSICA", 37 MTV
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MTV_HD)/index.m3u8
+
+
+MTV HITS
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtvhits.webp" group-title="MUSICA", 38 MTV HITS
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MTV_HITS)/index.m3u8
+
+
+MTV 00
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_7394a0d9278c40188243a8f4a0e75ea2~mv2.png/v1/fill/w_90,h_90/34a0d2_7394a0d9278c40188243a8f4a0e75ea2~mv2.png" group-title="MUSICA", 39 MTV 00
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MTV_00)/index.m3u8
+

@@ -166,3 +166,44 @@ HBO POP
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBOPOP)/index.m3u8
 
 
+HBO XTREME
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboxtreme.webp" group-title="CINE", 56 HBO XTREME
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBOXTREME)/index.m3u8
+
+
+UNIVERSAL CINEMA
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalcinema.webp" group-title="CINE", 59 UNIVERSAL CINEMA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8
+
+
+UNIVERSAL COMEDY
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalcomedy.webp" group-title="CINE", 60 UNIVERSAL COMEDY
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_COMEDY_HD)/index.m3u8
+
+
+UNIVERSAL PREMIERE
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalpremiere.webp" group-title="CINE", 61 UNIVERSAL PREMIERE
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_PREMIERE_HD)/index.m3u8
+
+
+UNIVERSAL CRIME
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalcrime.webp" group-title="CINE", 62 UNIVERSAL CRIME
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CRIME_HD)/index.m3u8
+
+
+UNIVERSAL REALITY
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalreality.webp" group-title="CINE", 63 UNIVERSAL REALITY
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_REALITY_HD)/index.m3u8
+
+
+UNIVERSAL
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="CINE", 64 UNIVERSAL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_HD)/index.m3u8
+

@@ -332,3 +332,35 @@ SUN
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(SUNCHANNEL)/index.m3u8
 
 
+---------------------------------------COCINA--------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+
+FOOD
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/food.webp" group-title="COCINA Y MODA", 112 FOOD NETWORK
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOODNETWORK_HD)/index.m3u8
+
+
+GOURMET
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/gourmet.webp" group-title="COCINA Y MODA", 113 EL GOURMET
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(EL_GOURMET_HD)/index.m3u8
+
+
+HOLA TV
+
+#EXTINF:-1 tvg-logo="https://image.pitchbook.com/5dSZGkokRkvpzWs5cAr2597YVuX1594151049473_200x200" group-title="COCINA Y MODA", 115 HOLA TV
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HOLA_HD)/index.m3u8
+
+
+LIFETIME
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/806-8065614_lifetime-logo-lifetime-tv.png" group-title="COCINA Y MODA", 118 LIFETIME
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(LIFETIME)/index.m3u8
+
+
+MAS CHIC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="COCINA Y MODA", 119 MAS CHIC
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MAS_CHIC_HD)/index.m3u8

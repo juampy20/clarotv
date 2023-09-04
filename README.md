@@ -132,3 +132,10 @@ MTV 00
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_7394a0d9278c40188243a8f4a0e75ea2~mv2.png/v1/fill/w_90,h_90/34a0d2_7394a0d9278c40188243a8f4a0e75ea2~mv2.png" group-title="MUSICA", 39 MTV 00
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MTV_00)/index.m3u8
 
+
+HTV
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/htv.webp" group-title="MUSICA", 41 HTV
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HTV)/index.m3u8
+
+

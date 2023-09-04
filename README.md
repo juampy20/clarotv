@@ -273,3 +273,62 @@ AXN
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/axn.webp" group-title="CINE", 78 AXN
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(AXN_HD)/index.m3u8
 
+
+
+----------------------------------------DOCUMENTALES ---------------------------------------
+--------------------------------------------------------------------------------------------
+
+NATIONAL
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/natgeo.webp" group-title="DOCUMENTALES Y CULTURA", 88 NATGEO
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(NATIONAL_GEOGRAPHIC_HD)/index.m3u8
+
+
+HISTORY
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="DOCUMENTALES Y CULTURA", 89 HISTORY
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HISTORY_CHANNEL_HD)/index.m3u8
+
+
+HISTORY 2
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history2.webp" group-title="DOCUMENTALES Y CULTURA", 90 H2
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HISTORY_2)/index.m3u8
+
+
+DISCOVERY
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/discovery.webp" group-title="DOCUMENTALES Y CULTURA", 91 DISCOVERY CHANNEL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DISCOVERY_CHANNEL_HD)/index.m3u8
+
+
+ANIMAL PLANET
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/aplanet.webp" group-title="DOCUMENTALES Y CULTURA", 92 ANIMAL PLANET
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ANIMAL_PLANET_HD)/index.m3u8
+
+
+DISCOVERY TURBO
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/turbo.webp" group-title="DOCUMENTALES Y CULTURA", 97 DISCOVERY TURBO
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DISCOVERY_TURBO)/index.m3u8
+
+
+DISCOVERY WORLD
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/disworld.webp" group-title="DOCUMENTALES Y CULTURA",98 DISCOVERY WORLD
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DISCOVERY_WORLD)/index.m3u8
+
+
+DISCOVEY THEATER
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/dfkeh0r-2f9d29c4-cbce-4ec5-a043-594d28f10a85.png/v1/fill/w_1280,h_397/2015_discovery_theater_hd_logo_svg_by_huyvo2001_dfkeh0r-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzk3IiwicGF0aCI6IlwvZlwvMTBkN2U4YjEtOWZlMS00YzQxLWFlYjctMzMxZjRmYjE4OGFhXC9kZmtlaDByLTJmOWQyOWM0LWNiY2UtNGVjNS1hMDQzLTU5NGQyOGYxMGE4NS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.F5yzNqknsw4c8auF0sHKYeQxJ8MbCLgj5ilzt3p0GNc" group-title="DOCUMENTALES Y CULTURA", 101 DISCOVERY THEATER
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DISCOVERY_THEATER_HD)/index.m3u8
+
+
+SUN
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png" group-title="DOCUMENTALES Y CULTURA", 102 SUN CHANNEL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(SUNCHANNEL)/index.m3u8
+
+

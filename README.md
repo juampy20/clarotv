@@ -438,10 +438,15 @@ ESPN 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORTS ESPN",143 ESPN 3 
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ESPN3)/index.m3u8
 
+ESPN EXTRA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="SPORTS ESPN",144 ESPN EXTRA
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ESPN_EXTRA)/index.m3u8
 
+ESPN PREMIUM
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPNPremium.png" group-title="SPORTS FUTBOL ARGENTINA",190 ESPN PREMIUM FUTBOL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_PREMIUM)/index.m3u8
 
 ---------------------------------------------------------------------------
 
@@ -451,11 +456,22 @@ FOX SPORTS
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS)/index.m3u8
 
 
+FOX SPORTS 2
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS FOX SPORTS",171 FOX SPORTS 2
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_2)/index.m3u8
 
 
+FOX SPORTS 3
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SPORTS FOX SPORTS",172 FOX SPORTS 3
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_3)/index.m3u8
 
+-----------------------------------------------------------------------------
+
+TNT SPORTS
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1302367661_TNTSportsNuevoLogo2021.png.627311d86b79f82412c3f88d01f38395.png" group-title="SPORTS FUTBOL ARGENTINA",193 TNT SPORTS FUTBOL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/index.m3u8
 

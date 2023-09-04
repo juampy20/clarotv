@@ -139,3 +139,30 @@ HTV
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HTV)/index.m3u8
 
 
+-------------------------------- CINE ------------------------------------------
+--------------------------------------------------------------------------------
+
+HBO
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo.webp" group-title="CINE", 52 HBO
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBO_HD)/index.m3u8
+
+
+HBO 2
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo2.webp" group-title="CINE", 53 HBO 2
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBO_2_HD)/index.m3u8
+
+
+HBO MUNDI
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbomundi.webp" group-title="CINE", 57 HBO MUNDI
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBOMUNDI)/index.m3u8
+
+
+HBO POP
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbopop.webp" group-title="CINE", 55 HBO POP
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBOPOP)/index.m3u8
+
+

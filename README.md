@@ -38,3 +38,23 @@ METRO
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(METRO)/index.m3u8
 
 
+VOLVER
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/volver.webp" group-title="ARGENTINA", 7 VOLVER
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(VOLVER)/index.m3u8
+
+
+DIPUTADOS TV
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/dtv.webp" group-title="ARGENTINA", 8 DIPUTADOS TV
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DIPUTADOS_TV)/index.m3u8
+
+
+ENCUENTRO
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/encuentro.webp" group-title="ARGENTINA", 9 ENCUENTRO
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ENCUENTRO)/index.m3u8
+
+
+
+

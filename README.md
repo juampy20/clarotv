@@ -94,4 +94,13 @@ C5N
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(C5N)/index.m3u8
 
 
+CRONICA TV
 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="NOTICIAS", 22 CRONICA TV
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CRONICA_TV)/index.m3u8
+
+
+RAI
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rai-italia-logo-CD2B7BAB1A-seeklogo.com.png" group-title="NOTICIAS",28 RAI
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(RAI)/index.m3u8

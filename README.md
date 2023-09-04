@@ -364,3 +364,56 @@ MAS CHIC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="COCINA Y MODA", 119 MAS CHIC
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MAS_CHIC_HD)/index.m3u8
+
+
+----------------------------------------- INFANTILES -------------------------------------------
+------------------------------------------------------------------------------------------------
+
+NICK
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nick.webp" group-title="INFANTILES", 125 NICKELODEON
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(NICK_HD)/index.m3u8
+
+
+CARTTON NETWORK
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cn.webp" group-title="INFANTILES", 126 CARTOON NETWORK
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CARTOON_NETWORK_HD)/index.m3u8
+
+
+DISNEY
+
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/disney.webp" group-title="INFANTILES",127 DISNEY CHANNEL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DISNEY_CHANNEL)/index.m3u8
+
+
+DISNEY JUNIOR
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/junior.webp" group-title="INFANTILES",128 DISNEY JR
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DISNEY_JUNIOR)/index.m3u8
+
+
+DISCOVERY KIDS
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/diskids.webp" group-title="INFANTILES",129 DISCOVERY KIDS
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DISCOVERY_KIDS_HD)/index.m3u8
+
+
+TOONCAST
+
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="INFANTILES",130 TOONCAST
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TOONCAST)/index.m3u8
+
+
+BOOMERANG
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/761/105/png-transparent-logo-boomerang-television-channel-high-definition-television-design-television-text-logo.png" group-title="INFANTILES", 132 BOOMERANG
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(BOOMERANG)/index.m3u8
+
+
+PAKAPAKA
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/pakapaka.webp" group-title="INFANTILES", 133 PAKA PAKA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(PAKAPAKA)/index.m3u8
+

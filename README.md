@@ -609,6 +609,32 @@ PLAYBOY
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(PLAYBOY_HD)/index.m3u8
 
 
+--------------------------------- INTERIOR-------------------------------------------
+--------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CANAL 9 RESISTENCIA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_9_RESISTENCIA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", TELEFE CORDOBA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TELEFE_CORDOBA)/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CANAL 12 CORDOBA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_12_CORDOBA)/index.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CANAL 7 CATAMARCA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_7_CATAMARCA)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", T5 SATELITAL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(T5_SATELITAL)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CHACO TV
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CHACO_TV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CANAL 7 JUJUY
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_7_JUJUY)/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CANAL 12 MISIONES
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_12_MISIONES)/index.m3u8

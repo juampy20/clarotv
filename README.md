@@ -529,3 +529,34 @@ DEPORTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="DEPORTES", 219 DEPORTV
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(DEPORTV)/index.m3u8
+
+
+---------------------------------------- OTROS ----------------------------------------------
+----------------------------------------------------------------------------------------------
+
+TELEMUNDO
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", TELEMUNDO
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TELEMUNDO)/index.m3u8
+
+VOLVER
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", VOLVER
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(VOLVER)/index.m3u8
+
+TVE
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", TVE
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TVE)/index.m3u8
+
+CANAL CLARO
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", CANAL CLARO
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_CLARO_HD)/index.m3u8
+
+PASIONES
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", PASIONES
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(PASIONES_HD)/index.m3u8
+
+

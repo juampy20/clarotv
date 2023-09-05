@@ -559,4 +559,56 @@ PASIONES
 #EXTINF:-1 tvg-logo="-" group-title="OTROS", PASIONES
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(PASIONES_HD)/index.m3u8
 
+CANAL RURAL
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", CANAL RURAL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_RURAL)/index.m3u8
+
+UCL
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", UCL
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UCL)/index.m3u8
+
+INTI
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", INTI
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(INTI_HD)/index.m3u8
+
+ENLACE
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", ENLACE
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ENLACE)/index.m3u8
+
+ORBE 21
+
+#EXTINF:-1 tvg-logo="-" group-title="OTROS", ORBE 21
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ORBE_21)/index.m3u8
+
+
+---------------------------------- ADULTOS ---------------------------------------
+----------------------------------------------------------------------------------
+
+PENTHOUSE
+
+#EXTINF:-1 tvg-logo="-" group-title="ADULTOS", PENTHOUSE
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(PENTHOUSE)/index.m3u8
+
+VENUS
+
+#EXTINF:-1 tvg-logo="-" group-title="ADULTOS", VENUS
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(VENUS)/index.m3u8
+
+SEXTREME
+
+#EXTINF:-1 tvg-logo="-" group-title="ADULTOS", SEXTREME
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(SEXTREME)/index.m3u8
+
+PLAYBOY
+
+#EXTINF:-1 tvg-logo="-" group-title="ADULTOS", PLAYBOY
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(PLAYBOY_HD)/index.m3u8
+
+
+
+
 

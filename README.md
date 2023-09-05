@@ -274,6 +274,23 @@ AXN
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(AXN_HD)/index.m3u8
 
 
+GOLDEN
+
+#EXTINF:-1 tvg-logo="-" group-title="CINE", 79 GOLDEN
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8
+
+
+GOLDEN PREMIERE
+
+#EXTINF:-1 tvg-logo="-" group-title="CINE", 80 GOLDEN PREMIER
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8
+
+
+EUROPA EUROPA
+
+#EXTINF:-1 tvg-logo="-" group-title="CINE", 81 EUROPA EUROPA
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(EUROPA_EUROPA_HD)/index.m3u8
+
 
 ----------------------------------------DOCUMENTALES ---------------------------------------
 --------------------------------------------------------------------------------------------

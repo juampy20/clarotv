@@ -638,3 +638,14 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/chan
 
 #EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CANAL 12 MISIONES
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_12_MISIONES)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CANAL 3 ROSARIO
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_3_ROSARIO)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="INTERIOR", CANAL 10 TUCUMAN
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CANAL_10_TUCUMAN)/index.m3u8
+
+
+
